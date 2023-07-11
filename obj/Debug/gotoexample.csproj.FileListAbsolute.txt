@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\bin\Debug\gotoexample.exe.config
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\bin\Debug\gotoexample.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\bin\Debug\gotoexample.pdb
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\obj\Debug\gotoexample.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\obj\Debug\gotoexample.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\obj\Debug\gotoexample.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\obj\Debug\gotoexample.exe
+C:\Users\91849\OneDrive\Desktop\mphasis\day2\gotoexample\gotoexample\obj\Debug\gotoexample.pdb
